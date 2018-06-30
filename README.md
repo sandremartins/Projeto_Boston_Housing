@@ -1,2 +1,2 @@
-# Projeto_Saneamento_Brasil
-Neste projeto iremos analisar as empresas de saneamento quanto ao relacionamento entre a estrutura de propriedade e a eficiência operacional obtida por diversos atributos. 
+# Projeto_Boston_Housing
+Neste projeto, vamos avaliar o desempenho e o poder de estimativa de um modelo que foi treinado e testado em dados coletados dos imóveis dos subúrbios de Boston, Massachusetts. Um modelo preparado para esses dados e visto como bem ajustado pode ser então utilizado para certas estimativas sobre um imóvel – em particular, seu valor monetário. Esse modelo seria de grande valor para alguém como um agente mobiliário, que poderia fazer uso dessas informações diariamente.
